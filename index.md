@@ -1,4 +1,6 @@
 # Мой первый публичный проект  
-## Я очень рад
+### Это я
+![Myphoto](/photo_2025-07-18_11-25-02.jpg)
 
-[Мой GitHub](https://github.com/Mikczar98/)
+[Мой Telegram](https://t.me/Mikhail_Ka98)  
+[Страница GitHub](https://github.com/Mikczar98/)
